@@ -2,7 +2,7 @@
 
 Disciplina: Linguagens Formais e Autômatos — UNIVALI.
 
-Integrantes: preencher com os nomes da equipe (máximo de três).
+Integrantes: JM e Thiago Wyse.
 
 Os estados aparecem no JFLAP como `q0`, `q1`, `q2` etc., com numeração própria em cada máquina. O estado inicial é `q0`; os estados finais são indicados por círculo duplo.
 
